@@ -1,4 +1,4 @@
-# Solar Activity and Global Temperature Analysis
+# A time-series analysis of the relationship between solar activity, global temperature anomalies
 
 ## Overview
 
