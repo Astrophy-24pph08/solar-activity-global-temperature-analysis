@@ -58,3 +58,8 @@ ENSO integration
 
 Result and Conclusion 
 
+## Future Work
+
+As an extension of the present study, 10.7 cm solar radio flux (F10.7) can be incorporated as an additional indicator of solar activity. Monthly F10.7 data available from NOAA PSL can be combined with the existing sunspot-number dataset to examine whether different measures of solar activity show consistent relationships with global temperature anomalies. The further extension would also to include Total Solar Irradiance (TSI), which directly represents the solar energy received at the top of Earth's atmosphere and is particularly relevant to the project's solar-radiation background and hence, it can be integrated with the existing sunspot and solar-flux data.
+
+
